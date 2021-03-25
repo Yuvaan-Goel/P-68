@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+    marquee {
+    color: white;
+    background: blue;
+    height: 25px;
+}
